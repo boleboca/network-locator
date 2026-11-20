@@ -1,0 +1,8 @@
+devices.csv
+inventory.csv
+backups/
+*.mxtsessions
+__pycache__/
+build/
+dist/
+*.spec
